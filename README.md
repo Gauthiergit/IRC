@@ -1,0 +1,1 @@
+The objective of this group project is to design a customized IRC server in accordance with Internet RFC standards. Group members will collaborate to explore network communication protocols in depth while gaining valuable hands-on experience in software development.
